@@ -21,7 +21,7 @@ A web-based application for managing teams, players, matches, and statistics in 
 1. Clone the repository:
 
 ``
-git clone https://github.com/anjalig18/football-management-system.git
+git clone   https://github.com/anjalig18/football-management-system.git
 ``
 
 2. Navigate to the project directory:
