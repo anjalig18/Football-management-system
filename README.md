@@ -23,10 +23,12 @@ A web-based application for managing teams, players, matches, and statistics in 
 ``
 git clone https://github.com/anjalig18/football-management-system.git
 ``
+
 2.Navigate to the project directory:
 
 ``
 cd football-management-system
+``
 
 3. Import the SQL database file (`database.sql`) into your MySQL server using phpMyAdmin or the command line.
 
